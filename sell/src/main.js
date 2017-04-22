@@ -13,3 +13,5 @@ router,
 template: '<App/>',
 components: { App }
 });
+router.push('/goods');
+
