@@ -1,11 +1,11 @@
 <template>
-	<div class="header">
-		我来组成头部
+	<div>
+		woshi seller
 	</div>
 </template>
 
 <script type="text/javascript">
-export default {};
+	export default {};
 </script>
 
 <style lang="stylus" rel="stylesheet/stylus">

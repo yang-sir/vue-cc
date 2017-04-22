@@ -1,6 +1,6 @@
 <template>
-	<div class="header">
-		我来组成头部
+	<div>
+		woshi goods
 	</div>
 </template>
 
