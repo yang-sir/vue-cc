@@ -19,7 +19,7 @@
 			</div>
 			<div class="support-count" @click="showDetail">
 				<span class="count"> {{seller.supports.length}}个 </span>
-				<span class="icon-keyboard_arrow_right"> > </span>
+				<span class="icon-keyboard"> > </span>
 			</div>
 		</div>
 		<div class="bulletin-wrapper" @click="showDetail">
@@ -166,7 +166,7 @@ import star from '../star/star.vue';
 				text-align: center
 				.count
 					font-size: 10px
-				.icon-keyboard_arrow_right
+				.icon-keyboard
 					font-size: 10px
 		.bulletin-wrapper
 			position: relative
